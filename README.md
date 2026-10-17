@@ -13,8 +13,7 @@ semantic HTML structure, CSS layout techniques
 
 ## Notes
 This is a static front-end project; the search bar and character form 
-are UI elements without backend logic or data storage (planned for the 
-semester-long follow-up project).
+are UI elements without backend logic or data storage.
 
 ## Author
 Za'Kwon
